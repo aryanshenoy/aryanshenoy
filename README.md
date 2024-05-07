@@ -1,5 +1,31 @@
-### Hi there 👋
-
+<h1>Hi there 👋</h1>
+<p>
+My name is Aryan Shenoy. 
+<br/>
+I am an Information Science and Engineering student at NMAM Institute of Technology.
+<br/>
+Thank you for visiting my profile! 😃
+</p>
+<h2>About Me</h2>
+<p>
+  <ul>
+    <li>
+      🔭 Currently working on Web Development
+    </li>
+    <li>
+      🌱 I like Competitive Coding
+    </li>
+    <li>
+      💬 Interested in Data Analysis using Python
+    </li>
+    <li>
+      👯 I'd like to collaborate on projects involving Python and Web Development 
+    </li>
+    <li>
+      😄 Pronouns: He/Him
+    </li>
+  </ul>
+</p>
 <!--
 **aryanshenoy/aryanshenoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
