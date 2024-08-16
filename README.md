@@ -21,9 +21,6 @@ Thank you for visiting my profile! 😃
     <li>
       👯 I'd like to collaborate on projects involving Python and Web Development 
     </li>
-    <li>
-      😄 Pronouns: He/Him
-    </li>
   </ul>
 </p>
 <!--
