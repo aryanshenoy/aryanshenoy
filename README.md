@@ -49,7 +49,3 @@ I'm a passionate ISE student who loves building things on the web and solving pr
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryanshenoy&color=58a6ff&style=flat-square" alt="Profile views" />
-</div>
