@@ -6,9 +6,9 @@ I'm a passionate ISE student who loves building things on the web and solving pr
 
 - 🔭 Currently building with **Web Development** (React, Next.js, TypeScript)
 - 🐍 Interested in **Data Analysis** with Python (pandas, NumPy, Matplotlib)
-- ⚡ Active in **Competitive Coding** — always sharpening problem-solving skills
+- ⚡ Active in **Competitive Coding** - always sharpening problem-solving skills
 - 🤝 Open to collaborating on **Python & Web Development** projects
-- 📬 Open to **internships and opportunities** — feel free to reach out!
+- 📬 Open to **internships and opportunities** - feel free to reach out!
 
 ---
 
