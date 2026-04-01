@@ -37,7 +37,6 @@ I'm a passionate ISE student who loves building things on the web and solving pr
 ---
 
 ## 📈 GitHub Stats
-
 <div align="center">
 
 ![Aryan's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanshenoy&theme=github_dark)
@@ -45,6 +44,8 @@ I'm a passionate ISE student who loves building things on the web and solving pr
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryanshenoy&theme=github_dark)
 &nbsp;
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryanshenoy&theme=github_dark)
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanshenoy&theme=github_dark&hide_border=true"/>
 
 </div>
 
